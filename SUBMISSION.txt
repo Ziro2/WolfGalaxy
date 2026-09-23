@@ -1,0 +1,25 @@
+NAME
+WolfGalaxy
+
+DESCRIPTION
+A clean black and violet cosmic SpoTUI theme featuring a custom crystalline wolf W emblem.
+
+COMMANDS
+tui -wp https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/WolfGalaxy/main/assets/wolf-galaxy.png -o 0.42
+tui -l off
+tui -bar -bg #05020A -border #8B5CF6 -text #E9D5FF
+tui -progress -bg #140A20 -fg #B026FF
+tui -inputs -bg #08040D -bg-hover #1B0C2B -text #E9D5FF -border #7C3AED
+tui -ly -cp -active #C084FC -inactive #6B5AA0 -near #A78BFA
+tui -ly -animation on
+tui -bar -c on
+tui -bar -c -progress diamond
+
+PREVIEW
+Upload/use preview.png
+
+WALLPAPER
+assets/wolf-galaxy.png
+
+WALLPAPER URL AFTER GITHUB UPLOAD
+https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/WolfGalaxy/main/assets/wolf-galaxy.png
